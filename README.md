@@ -17,7 +17,7 @@
 * Fortran
 * GrADS (linguagem científica para visualização de dados geoespaciais)
 
-# 📊 Objetivo
+# 📊 Objetivos
 
 * Evoluir minha habilidade de Python
 * Praticar SQL
