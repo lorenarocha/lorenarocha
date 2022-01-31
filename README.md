@@ -1,4 +1,9 @@
-# ⛅️ Sobre mim
+<p align="right">
+    <a href="https://github.com/lorenarocha">
+        <img src="https://img.shields.io/github/followers/lorenarocha?label=follow&style=social"></a>
+</p>
+
+# ⛅️ Sobre mim 
 
 <p align="center">Meteorologista pela Universidade Federal de Itajubá (Unifei) e atualmente, faço Mestrado pelo Programa de Pós-Graduação em Meteorologia pela Universidade de São Paulo (USP). Na área acadêmica, atuo em Meteorologia Sinótica e Meteorologia de Mesoescala. Pode me perguntar se vai chover!</p>
 
@@ -6,7 +11,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/lore-rocha/">
-         <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 # 💻 Habilidades
