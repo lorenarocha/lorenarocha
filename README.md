@@ -1,4 +1,4 @@
-# ⛅️ Sobre Mim
+# ⛅️ Sobre mim
 
 <p><center>Meteorologista pela Universidade Federal de Itajubá (Unifei) e atualmente, faço Mestrado pelo Programa de Pós-Graduação em Meteorologia pela Universidade de São Paulo (USP). Na área acadêmica, atuo em Meteorologia Sinótica e Meteorologia de Mesoescala. Pode me perguntar se vai chover!</p>
 
@@ -9,7 +9,7 @@
          <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-# 💻 Skills
+# 💻 Habilidades
 
 * Python
 * R
@@ -17,7 +17,7 @@
 * Fortran
 * GrADS (linguagem científica para visualização de dados geoespaciais)
 
-# 📊 Goals
+# 📊 Objetivo
 
 * Evoluir minha habilidade de Python
 * Praticar SQL
