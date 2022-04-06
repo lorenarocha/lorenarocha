@@ -11,9 +11,9 @@
 <p align="justify">Por trabalhar com dados geoespaciais e bastante estatística na minha formação, decidi expandir meus horizontes! Comecei a me aprofundar no mundo de <i>Data Analytics</i> no início do ano de 2022 e fiquei bem focada nesse processo durante os últimos meses, até surgir minha primeira oportunidade de trabalho na área. Sou uma pessoa que preza muito pelo aprendizado, então estou sempre descobrindo coisas novas que contribuam na minha jornada.</p>
 
 <p align="center">
-    <a href= "http://lorenarocha.herokuapp.com">
+    <a href= "http://lorenarocha.herokuapp.com" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/lore-rocha/">
+    <a href="https://www.linkedin.com/in/lore-rocha/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href= "mailto:lore.bezerra.r@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -25,9 +25,11 @@
 <p align="center">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</p>
+<p align="center">
         <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 <p align="center">
