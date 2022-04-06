@@ -6,9 +6,9 @@
 
 # ⛅️ Sobre mim 
 
-<p align="justify">Analista de Business Intelligence II na Vidalink, fazer o bem é o que nos une 😄 Porém, esse não é o começo da minha carreira. Tenho formação de Meteorologista pela Universidade Federal de Itajubá (Unifei) e atualmente, faço Mestrado pelo Programa de Pós-Graduação em Meteorologia pela Universidade de São Paulo (USP). Na área acadêmica, atuo em Sinótica e Meteorologia de Mesoescala. Pode me perguntar se vai chover!</p>
+<p align="justify">Analista de Business Intelligence II na Vidalink, fazer o bem é o que nos une 😄 Porém, esse não é o começo da minha carreira. Tenho formação em Ciências Atmosféricas pela Universidade Federal de Itajubá (Unifei) e atualmente, faço Mestrado pelo Programa de Pós-Graduação em Meteorologia pela Universidade de São Paulo (USP). Na área acadêmica, atuo em Sinótica e Meteorologia de Mesoescala. Pode me perguntar se vai chover!</p>
 
-<p align="justify">Por trabalhar com dados geoespaciais e bastante estatística na minha formação, decidi expandir meus horizontes! Comecei a me aprofundar no mundo de <i>Data Analytics</i> no início do ano de 2022 e fiquei bem focada nesse processo durante os últimos meses, até surgir minha primeira oportunidade de trabalho na área.Sou uma pessoa que preza muito pelo aprendizado, então estou sempre descobrindo coisas novas que contribuam na minha jornada.</p>
+<p align="justify">Por trabalhar com dados geoespaciais e bastante estatística na minha formação, decidi expandir meus horizontes! Comecei a me aprofundar no mundo de <i>Data Analytics</i> no início do ano de 2022 e fiquei bem focada nesse processo durante os últimos meses, até surgir minha primeira oportunidade de trabalho na área. Sou uma pessoa que preza muito pelo aprendizado, então estou sempre descobrindo coisas novas que contribuam na minha jornada.</p>
 
 <p align="center">
     <a href= "http://lorenarocha.herokuapp.com">
