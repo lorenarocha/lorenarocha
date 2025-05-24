@@ -6,9 +6,11 @@
 
 # ⛅️ Sobre mim 
 
-<p align="justify">Analista de Business Intelligence II na Vidalink, fazer o bem é o que nos une 😄 Porém, esse não é o começo da minha carreira. Tenho formação em Ciências Atmosféricas pela Universidade Federal de Itajubá (Unifei) e atualmente, faço Mestrado pelo Programa de Pós-Graduação em Meteorologia pela Universidade de São Paulo (USP). Na área acadêmica, atuo em Sinótica e Meteorologia de Mesoescala. Pode me perguntar se vai chover!</p>
+Sou **Analista de Business Intelligence II na Vidalink**, onde contribuo com análises de dados que impactam diretamente o negócio. Trabalho com ferramentas como SQL, Python, Power BI e Metabase e mais, sempre buscando gerar insights claros, acionáveis e relevantes.
 
-<p align="justify">Por trabalhar com dados geoespaciais e bastante estatística na minha formação, decidi expandir meus horizontes! Comecei a me aprofundar no mundo de <i>Data Analytics</i> no início do ano de 2022 e fiquei bem focada nesse processo durante os últimos meses, até surgir minha primeira oportunidade de trabalho na área. Sou uma pessoa que preza muito pelo aprendizado, então estou sempre descobrindo coisas novas que contribuam na minha jornada.</p>
+Sou formada em **Ciências Atmosféricas pela Unifei**, passei pelo Mestrado em Meteorologia na USP e atualmente, curso **MBA em Data Science & Analytics** na USP/Esalq. Durante minha trajetória acadêmica, desenvolvi habilidades sólidas em estatística, programação e manipulação de dados geoespaciais, facilitando minha transição para o universo de dados e BI. 
+
+Sou uma pessoa curiosa e colaborativa, em busca de aprendizado contínuo, seja aprimorando uma modelagem, testando nova stack ou discutindo soluções com o time. No tempo livre, gosto de e-sports, ouvir música e tocar violão.
 
 <p align="center">
     <a href= "http://lorenarocha.herokuapp.com" target="_blank">
@@ -23,35 +25,35 @@
 # 💻 Habilidades
 
 <p align="center">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-</p>
-<p align="center">
-        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+        <img src="https://img.shields.io/badge/Metabase-326CE5?style=for-the-badge&logo=Metabase&logoColor=white">
+        <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+        
 </p>
+
 <p align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-        <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-        <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-</p>
-<p align="center">
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
+</p>
+
+<p align="center">
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
+        <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
+</p>
+
+<p align="center">       
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 </p>
 
 # 📚 Objetivos de aprendizado
 
-* Design de dashboards no Figma
-* Databricks
-* Spark 
-* AWS
-* Trigger, procedure, create index com SQL
+* Airbyte
+* Airflow
+* dbt
+* Versionamento de projetos no Power BI
 
 # 📊 Projetos
 
@@ -63,12 +65,12 @@
 # 🖥️ Workspace
 
 <p align="center">
-    <img src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white>
-    <img src=https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white>
+    <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
 <p align="center">
-    <img src=https://img.shields.io/badge/AMD%20Ryzen_5_3400G-363636?style=for-the-badge&logo=amd&logoColor=white>
-    <img src="https://img.shields.io/badge/RAM_16GB-363636?style=for-the-badge"/>
+    <img src=https://img.shields.io/badge/AMD%20Ryzen_5_5600G-363636?style=for-the-badge&logo=amd&logoColor=white>
+    <img src="https://img.shields.io/badge/RAM_32GB-363636?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/MONITOR_AOC_24G2-363636?style=for-the-badge"/>
 </p>
